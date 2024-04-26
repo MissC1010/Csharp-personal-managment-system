@@ -1,0 +1,15 @@
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\obj\Debug\net8.0\ManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\obj\Debug\net8.0\ManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\obj\Debug\net8.0\ManagmentSystem.AssemblyInfo.cs
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\obj\Debug\net8.0\ManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\obj\Debug\net8.0\ManagmentSystem.sourcelink.json
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\bin\Debug\net8.0\ManagmentSystem.exe
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\bin\Debug\net8.0\ManagmentSystem.deps.json
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\bin\Debug\net8.0\ManagmentSystem.runtimeconfig.json
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\bin\Debug\net8.0\ManagmentSystem.dll
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\bin\Debug\net8.0\ManagmentSystem.pdb
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\obj\Debug\net8.0\ManagmentSystem.dll
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\obj\Debug\net8.0\refint\ManagmentSystem.dll
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\obj\Debug\net8.0\ManagmentSystem.pdb
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\obj\Debug\net8.0\ManagmentSystem.genruntimeconfig.cache
+C:\Users\celin\OneDrive\Desktop\Person managment system\ManagmentSystem\obj\Debug\net8.0\ref\ManagmentSystem.dll
